@@ -17,7 +17,7 @@ This project is focused on predicting fraudulent vehicle insurance claims using 
 To replicate this project,
 1. Clone the repository to your local machine.
 ```bash
-   git clone https://github.com/your-username/vehicle-insurance-fraud-prediction.git
+   git clone https://github.com/B-Taiwo/vehicle-insurance-fraud-prediction.git
 ```
 2. Install the necessary dependencies by running:
 ```bash
